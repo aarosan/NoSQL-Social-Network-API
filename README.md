@@ -10,5 +10,11 @@ Check out how I broke this project down in [PSEUDOCODE.md](PSEUDOCODE.md).
 https://www.topcoder.com/thrive/articles/how-to-connect-mongodb-to-node-js-using-mongoose</br>
 https://www.workfall.com/learning/blog/how-to-connect-to-mongodb-using-mongoose-and-mongodb-atlas-in-node-js/
 
+### Mongoose Models
+https://www.geeksforgeeks.org/mongoose-mongoose-model-function/</br>
+https://mongoosejs.com/docs/schematypes.html</br>
+https://saturncloud.io/blog/how-can-i-validate-an-email-address-using-a-regular-expression/</br>
+https://stackoverflow.com/questions/29078753/how-to-reference-another-schema-in-my-mongoose-schema</br>
+https://mongoosejs.com/docs/tutorials/virtuals.html</br>
 
 
